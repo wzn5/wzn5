@@ -2,15 +2,15 @@
 
 ### 🧐 More About Me:
 
-・I am 16 years old, I live in Portugal.
+- I am 16 years old, I live in Portugal.
 
-・JS and Discord.js lover
+- JS and Discord.js lover
 
-・Creator of the "Atrix System"
+- Creator of the "Atrix System"
 
-・Bot invitation: [Add Atrix](https://dsc.gg/atrixadd)
+- Bot invitation: [Add Atrix](https://dsc.gg/atrixadd)
 
-・Bot Server: [Discord Server](https://dsc.gg/atrixserver)
+- Bot Server: [Discord Server](https://dsc.gg/atrixserver)
 
 ### 📡 Languages and Tools:
 
