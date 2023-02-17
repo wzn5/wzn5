@@ -1,5 +1,8 @@
 ## 👋 Hello, i am wzn (André)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/926619285940469831)](https://discord.com/users/926619285940469831)
+<br/>
+
 ### 🧐 More About Me:
 
 - I am 16 years old, I live in Portugal.
