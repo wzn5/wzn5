@@ -1,25 +1,23 @@
-## 👋 Hello, i am wzn (André)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/926619285940469831)](https://discord.com/users/926619285940469831)
-<br/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wzn6&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="wzn6 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzn6&layout=compact&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=0d1117" />
+</div>
 
-### 🧐 More About Me:
 
-- I am 16 years old, I live in Portugal.
+<div align="center"> 
+<a href="https://instagram.com/wzn.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCQauvcKOW0YnDdaIhU1lG8A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ </div>
 
-- JS and Discord.js lover
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-- Creator of the "Atrix System"
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wzn6}/count.svg" /></p> 
+<br>
+</div>
 
-- Bot invitation: [Add Atrix](https://dsc.gg/atrixadd)
-
-- Bot Server: [Discord Server](https://dsc.gg/atrixserver)
-
-### 📡 Languages and Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <a href="https://www.youtube.com/channel/UCQauvcKOW0YnDdaIhU1lG8A" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  
-</p> 
