@@ -2,7 +2,6 @@
 <h3 align="center">Back-End Developer</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>Atrix Bot</strong><br>
   🌱 I’m currently learning <strong>JavaScript, Node.js and Lua</strong><br>
   ⚡ Fun fact: I love building <strong>clean & functional systems</strong><br>
 </p>
