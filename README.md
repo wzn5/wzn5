@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=140&section=header" alt="header" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=140&section=header" alt="header" />
 
 <h1 align="center">Hi 👋, I'm wzn5</h1>
 <h3 align="center">Back-End Developer</h3>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wzn5&label=Profile+views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=wzn5&label=Profile+views&color=2f81f7&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/wzn5?label=Followers&style=flat&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/wzn5?label=Stars&style=flat&logo=github" alt="stars" />
 </p>
@@ -35,9 +35,15 @@
 </p>
 
 ---
-</p>
+
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wzn5&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak" />
+  <a href="https://github.com/Akinaru/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=wzn5&hide_border=true&background=0d1117&stroke=30363d&ring=2f81f7&fire=58a6ff&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e"
+      alt="GitHub Streak Stats"
+    />
+  </a>
 </p>
 
 ---
@@ -47,4 +53,6 @@
   <a href="https://discord.com/users/1054503459887530005">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" alt="footer" />
